@@ -2063,7 +2063,7 @@ input, select, textarea {
 						#main > .panel.intro .pic .arrow:before {
 							position: relative;
 							padding-right: 0;
-							top: 0.125em;
+							top: 0;
 						}
 
 						#main > .panel.intro .pic .arrow span {
